@@ -1,0 +1,14 @@
+{
+    "Nodos": [
+        {
+            "Id": 12345,
+            "Nombre": "Juan ",
+            "Contrasena" : "1234"
+        },
+        {
+            "Id": 56789,
+            "Nombre": "Bryan ",
+            "Contrasena" : "1234"
+        }
+    ]
+}
